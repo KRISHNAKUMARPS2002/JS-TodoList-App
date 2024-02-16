@@ -10,6 +10,10 @@ A minimalist To-Do List application built using HTML, CSS, and JavaScript.
 - **Delete Tasks**: Remove unwanted tasks from the list.
 - **Local Storage**: Your to-do list is stored locally, so your tasks persist even if you close the browser.
 
+## Preview
+
+![To-Do List Preview](To-List-Preview.png)
+
 ## Getting Started
 
 1. Clone the repository to your local machine:
